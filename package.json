@@ -34,7 +34,7 @@
     "hybrid": "bun run hybrid/app.ts",
     "thread": "bun run thread/app.ts",
     "read": "bun run read/app.ts",
-    "embedding": "bun run embedding/app.ts",
+    "embedding": "bun run embedding-function/app.ts",
     "rerank": "bun run rerank/app.ts",
     "semantic": "bun run semantic/app.ts",
     "naive_rag": "bun run naive_rag/app.ts",
